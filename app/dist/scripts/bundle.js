@@ -65,11 +65,6 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-<<<<<<< HEAD
-/***/ (function(module, exports) {
-
-throw new Error("Module build failed: Error: ENOENT: no such file or directory, open 'D:\\projects\\travel-site\\package.json'\n    at Object.fs.openSync (fs.js:579:3)\n    at Object.fs.readFileSync (fs.js:485:33)\n    at ConfigChainBuilder.addConfig (D:\\projects\\travel-site\\node_modules\\babel-core\\lib\\transformation\\file\\options\\build-config-chain.js:146:32)\n    at ConfigChainBuilder.findConfigs (D:\\projects\\travel-site\\node_modules\\babel-core\\lib\\transformation\\file\\options\\build-config-chain.js:102:30)\n    at buildConfigChain (D:\\projects\\travel-site\\node_modules\\babel-core\\lib\\transformation\\file\\options\\build-config-chain.js:61:13)\n    at OptionManager.init (D:\\projects\\travel-site\\node_modules\\babel-core\\lib\\transformation\\file\\options\\option-manager.js:354:58)\n    at File.initOptions (D:\\projects\\travel-site\\node_modules\\babel-core\\lib\\transformation\\file\\index.js:212:65)\n    at new File (D:\\projects\\travel-site\\node_modules\\babel-core\\lib\\transformation\\file\\index.js:135:24)\n    at Pipeline.transform (D:\\projects\\travel-site\\node_modules\\babel-core\\lib\\transformation\\pipeline.js:46:16)\n    at transpile (D:\\projects\\travel-site\\node_modules\\babel-loader\\lib\\index.js:50:20)");
-=======
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -10503,7 +10498,6 @@ if ( !noGlobal ) {
 return jQuery;
 } );
 
->>>>>>> header
 
 /***/ })
 /******/ ]);
